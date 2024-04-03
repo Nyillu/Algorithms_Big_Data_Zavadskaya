@@ -18,7 +18,7 @@ Obtained dataset is presented in the file `data.csv`.
 
 Two libraries were chosen for unloading descriptors: `mordred` and `rdkit`.
 
-The **result* of this hometask are files `data_with_descriptors.csv` and `data_clean.csv`.
+The **result** of this hometask are files `data_with_descriptors.csv` and `data_clean.csv`.
 
 Сode: [get_descriptors.ipynb](get_descriptors.ipynb)
 
@@ -30,5 +30,12 @@ The **result* of this hometask are files `data_with_descriptors.csv` and `data_c
 Cleaning of dataset is presented in Jupyter notebook `data_curation.ipynb`. The **result* of this hometask are files `data_final.csv` and `data_normalized.csv` files.
 
 Сode: [data_curation.ipynb](data_curation.ipynb)
+
+### Hometask $4$
+
+lalala
+
+Сode: [dimension_reduction.ipynb](dimension_reduction.ipynb)
+
 
 
