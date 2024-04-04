@@ -31,11 +31,20 @@ Cleaning of dataset is presented in Jupyter notebook `data_curation.ipynb`. The 
 
 Сode: [data_curation.ipynb](data_curation.ipynb)
 
-### Homework $4$
+### Homework $4$ and $5$
+
+Dimension reduction was performed using:
+
+- [ ] linear dimension reduction method: `PCA`
+- [ ] non-linear dimension reduction method: `t-SNE` and `UMAP`
+
+Clustering was performed using the `AgglomerativeClustering` and `DBSCAN`.
+
+Сode: [homework_4_and_5.ipynb](homework_4_and_5.ipynb)
+
+### Homework $6$
 
 lalala
 
-Сode: [dimension_reduction.ipynb](dimension_reduction.ipynb)
-
-
+Сode: [data_curation.ipynb](data_curation.ipynb)
 
