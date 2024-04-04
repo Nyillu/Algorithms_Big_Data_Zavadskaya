@@ -44,7 +44,15 @@ Clustering was performed using the `AgglomerativeClustering` and `DBSCAN`.
 
 ### Homework $6$
 
-lalala
+In this homework is presented working with regression models to predict target value - `'gap'`.
 
-Сode: [data_curation.ipynb](data_curation.ipynb)
+Best model - `LightGBM`. It show following metrics:
+
+Metrics on the test sample:
+R2: `0.945`
+
+Metrics for cross-validation:
+Average R2: `0.945`
+
+Сode: [regressor.ipynb](regressor.ipynb)
 
